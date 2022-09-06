@@ -1,1 +1,1 @@
-# bakar
+# ddos.go
